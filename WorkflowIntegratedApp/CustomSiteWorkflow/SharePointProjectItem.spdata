@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Workflow4App" DefaultFile="Workflow.xaml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Workflow.xaml" Target="CustomSiteWorkflow\" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="WorkflowAssociation.EventSourceGUID" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowAssociation.HistoryListId" Value="Lists/WorkflowHistoryList" />
+    <ExtensionDataItem Key="WorkflowAssociation.TaskListId" Value="Lists/WorkflowTaskList" />
+    <ExtensionDataItem Key="WorkflowAssociationItemAdded.Enabled" Value="false" />
+    <ExtensionDataItem Key="WorkflowAssociationItemUpdated.Enabled" Value="false" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Description" Value="CustomSiteWorkflow - WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.DisplayName" Value="CustomSiteWorkflow - WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Enabled" Value="true" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.EventSourceGUID" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.EventType" Value="WorkflowStart" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.HistoryListId" Value="Lists/WorkflowHistoryList" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.Id" Value="18550f40-4d11-4e04-b1a1-fac7f7f794e8" />
+    <ExtensionDataItem Key="WorkflowAssociationManualStart.TaskListId" Value="Lists/WorkflowTaskList" />
+    <ExtensionDataItem Key="WorkflowDefinition.Description" Value="My 'CustomSiteWorkflow' Workflow" />
+    <ExtensionDataItem Key="WorkflowDefinition.DisplayName" Value="CustomSiteWorkflow" />
+    <ExtensionDataItem Key="WorkflowDefinition.Id" Value="4ac94e13-11de-4513-854a-1935e07d4d5b" />
+    <ExtensionDataItem Key="WorkflowDefinition.RestrictAssociationToId" Value="808530A7-2566-4CEB-B528-1727855A19D8" />
+    <ExtensionDataItem Key="WorkflowDefinition.RestrictAssociationToType" Value="Site" />
+  </ExtensionData>
+</ProjectItem>

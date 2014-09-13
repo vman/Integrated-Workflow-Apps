@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="e1ead823-659c-450f-910f-7b9c0c804fa9" 
+        solutionId="e1ead823-659c-450f-910f-7b9c0c804fa9" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="WorkflowIntegratedApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="367860dd-9240-4fd0-af5f-8b0109864a22" />
+  </features>
+</package>
